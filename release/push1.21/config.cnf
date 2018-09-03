@@ -1,0 +1,9 @@
+DebugLog=false
+OpenSSL=true
+Threads=100
+CheckSafe=true
+Aes=true
+MySqlAddr=192.168.168.43
+sLocalNetworkIP=192.168.169.100
+IosSandbox=false
+sFriendIP=192.168.168.100
